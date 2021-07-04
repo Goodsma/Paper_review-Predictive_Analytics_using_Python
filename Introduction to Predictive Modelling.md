@@ -15,4 +15,15 @@ Then, it compares the prediction to the survey data.
 Results show that photograph metadata can be used to assign home locations with accuracies between 62 and 89% depending on the spatial scale implemented.
 Spatial scale(0: country,> 1: federal states, 2:county), accuracy(0>1>2)
 
+## 2. Service Quality Perception and Satisfaction: Buying Behaviour Prediction in an Australian Festivalscape
+(Johan Bruwer)
+https://www.researchgate.net/profile/Johan-Bruwer/publication/259683378_Service_Quality_Perception_and_Satisfaction_Buying_Behaviour_Prediction_in_an_Australian_Festivalscape/links/5a59f483aca2727d6082ab8c/Service-Quality-Perception-and-Satisfaction-Buying-Behaviour-Prediction-in-an-Australian-Festivalscape.pdf
+
+|Source|Application|Technique|Area|
+|---|---|---|---|
+|International Journal of Tourism Research|buying behaviour|factor analysis ,logistic regression|Wine festival|
+
+
+
+
 
