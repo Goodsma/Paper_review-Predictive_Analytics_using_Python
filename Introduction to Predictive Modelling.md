@@ -30,6 +30,17 @@ Logistic regression is used to assess the impact of a set of predictors such as 
 Through the Wald test, it can be seen that only overall satisfaction features S1 contribute significantly to the predictive ability of the model.
 
 
+## 3. PREDICTING FUTURE VISITORS OF RESTAURANTS USING BIG DATA
+(XU MA1, YANSHAN TIAN1, CHU LUO2, YUEHUI ZHANG3)
+
+|Source|Application|Technique|Area|
+|---|---|---|---|
+|ICMLC|future visitors of Restaurants|KNNR, RF Regressor XGBoost|big data|
+
+this paper propse an approach to predict how many future visitors will go to a restaurante using  big data and supervised learning.
+data involves restaurant information, historical visits and historical reservations.
+K-Nearest-Neighbour, Random Forests and XGBoost are used.
+To avoid the bias brought from a single regressor mean of all predictions from the three regressors is used as the final prediction.
 
 
 
